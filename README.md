@@ -5,7 +5,7 @@ Como usar no Debian:
 
 `sudo apt install fortune-mod`
 
-Então baixe ambos os arquivos e execute o seguinte comando:
+Então execute os seguintes comandos:
 
 `cd ~/.local`
 
